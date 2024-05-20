@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/c++.png</file>
+        <file>images/c-sharp.png</file>
+        <file>images/html+css.png</file>
+        <file>images/java.png</file>
+        <file>images/js.png</file>
+        <file>images/kotlin-programming-language-icon.png</file>
+        <file>images/python.png</file>
+        <file>images/r.png</file>
+        <file>images/swift.png</file>
+        <file>images/code.png</file>
+    </qresource>
+</RCC>
